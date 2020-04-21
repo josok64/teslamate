@@ -172,6 +172,7 @@ teslamate:$apr1$0hau3aWq$yzNEh.ABwZBAIEYZ6WfbH/
 Start the stack with `docker-compose up`.
 
 1. Open the web interface [tesla.example.com](https://tesla.example.com)
+1. Open the web iterface teslamate.example.com (https.//teslamate.example.com)
 2. Sign in with your Tesla account
 3. The Grafana dashboards are available at [grafana.example.com](https://grafana.example.com).
 
